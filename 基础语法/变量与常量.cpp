@@ -4,6 +4,7 @@
 using namespace std;
 
 #define DPI 99 // 预定义
+/* 预编译运算符#和## */
 
 /* 赋初值方式：
     1.int a=1;
