@@ -6,6 +6,7 @@
  * @date 2022-07-05
  * @copyright Copyright (c) 2022
 *****************************************************************************/
+
 /*编译
     1.通过插件Code Runner
     2.点击菜单的终端,找到点击运行生成任务,选择相应编译器编译,完成编译后在Windows
@@ -58,7 +59,7 @@ int main(int argc,char *argv[])
         arg: 0: D:\C++学习\基础语法\编译_打印_字符串.exe
         arg: 1: dfdf
         arg: 2: dfsd
-    */
+     */
     if(argc!=1)
     {
         cout << "You input " << argc << " arguments" << endl;
