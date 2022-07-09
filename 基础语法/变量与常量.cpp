@@ -1,7 +1,7 @@
 /**
  * @file 变量与常量.cpp
  * @author 施豪栋 (pillar.shi@foxmail.com)
- * @brief 变量、常量、赋初值、预定义
+ * @brief 2.1: 变量、常量、赋初值、预定义
  * @version 0.1
  * @date 2022-07-07
  * 
