@@ -12,8 +12,8 @@
     2.点击菜单的终端,找到点击运行生成任务,选择相应编译器编译,完成编译后在Windows
       终端输入 ./<文件名> 运行
 */
-#include<iostream>
-#include<string>
+#include <iostream>
+#include <string>
 
 /* 若没有，下面的cout和string等要变成std::cout和std::string */
 using namespace std;
@@ -69,4 +69,7 @@ int main(int argc,char *argv[])
         }
         
     }
+    
+    /* 可以省略，默认main的返回值为0（此后省略） */
+    return 0;
 }
