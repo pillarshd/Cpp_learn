@@ -58,4 +58,11 @@ int main(int argc,char *argv[])
         // 可省略
         break;
     }
+
+    /* ?: 三元表达式 */
+    int temperature{0};
+    cout << "temperature : ";
+    cin >> temperature;
+    string feeling{temperature>24 ? "hot" : "cool"};
+    cout << "feeling : " << feeling << endl;
 }
