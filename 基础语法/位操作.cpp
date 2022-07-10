@@ -37,4 +37,6 @@ int main(int argc,char *argv[])
     
     // >>右移，补零，约等于除二
     cout << "8>>2 : " << (8>>2) << endl;
+
+    return 0;
 }

@@ -70,6 +70,6 @@ int main(int argc,char *argv[])
         
     }
     
-    /* 可以省略，默认main的返回值为0（此后省略） */
+    /* 可以省略，默认main的返回值为0 */
     return 0;
 }

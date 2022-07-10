@@ -70,4 +70,6 @@ int main(int argc,char *argv[])
     cout << value4 << endl;
     cout << value5 << endl;
     cout << value6 << endl;
+
+    return 0;
 }

@@ -43,4 +43,6 @@ int main(int argc,char *argv[])
     cout << "dpi_int+1 : " << dpi_int+1 << endl;
     cout << "dpi_string : " << dpi_string << endl;
     cout << "dpi_string 99 ASCII is \"c\"" << endl;
+
+    return 0;
 }

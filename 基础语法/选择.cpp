@@ -65,4 +65,6 @@ int main(int argc,char *argv[])
     cin >> temperature;
     string feeling{temperature>24 ? "hot" : "cool"};
     cout << "feeling : " << feeling << endl;
+
+    return 0;
 }
