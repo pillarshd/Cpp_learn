@@ -1,6 +1,6 @@
 /**
  * @file 循环.cpp
- * @author 施豪栋 (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi@foxmail.com)
  * @brief 3.2: 循环语句
  * @version 0.1
  * @date 2022-07-10

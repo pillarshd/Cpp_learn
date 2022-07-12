@@ -1,6 +1,6 @@
 /**
  * @file 位操作.cpp
- * @author 施豪栋 (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi@foxmail.com)
  * @brief 2.3: 位操作
  * @version 0.1
  * @date 2022-07-09

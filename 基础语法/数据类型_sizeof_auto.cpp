@@ -1,6 +1,6 @@
 /**
  * @file 数据类型_sizeof_auto.cpp
- * @author 施豪栋 (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi@foxmail.com)
  * @brief 2.2: 数据类型、sizeof函数、auto
  * @version 0.1
  * @date 2022-07-07
