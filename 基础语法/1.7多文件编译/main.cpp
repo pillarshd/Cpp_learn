@@ -1,7 +1,7 @@
 /*****************************************************************************
  * @file main.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 7: 多文件编译方法
+ * @brief 1.7: 多文件编译方法
  * @version 0.1
  * @date 2022-07-21
  * 

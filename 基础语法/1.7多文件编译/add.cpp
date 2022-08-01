@@ -1,7 +1,7 @@
 /*****************************************************************************
  * @file add.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 7: 多文件编译的add.cpp
+ * @brief 1.7: 多文件编译的add.cpp
  * @version 0.1
  * @date 2022-07-21
  * 
