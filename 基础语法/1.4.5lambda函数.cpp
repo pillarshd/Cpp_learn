@@ -1,7 +1,7 @@
 /**
  * @file lambda函数.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 4.5: lambda函数简单介绍
+ * @brief 1.4.5: lambda函数简单介绍
  * @version 0.1
  * @date 2022-07-13
  * 

@@ -1,7 +1,7 @@
 /**
  * @file 递归.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 4.4: 递归--阶乘
+ * @brief 1.4.4: 递归--阶乘
  * @version 0.1
  * @date 2022-07-13
  * 

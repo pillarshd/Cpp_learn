@@ -1,7 +1,7 @@
 /**
  * @file 循环.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 3.2: 循环语句
+ * @brief 1.3.2: 循环语句
  * @version 0.1
  * @date 2022-07-10
  * 

@@ -1,7 +1,7 @@
 /**
  * @file 函数的传递.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 4.2: 函数的值传递、指针转递、引用传递
+ * @brief 1.4.2: 函数的值传递、指针转递、引用传递
  * @version 0.1
  * @date 2022-07-12
  * 

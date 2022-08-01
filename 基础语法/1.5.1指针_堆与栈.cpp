@@ -1,7 +1,7 @@
 /**
  * @file 指针_堆与栈.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 5.1: 指针创建--堆与栈
+ * @brief 1.5.1: 指针创建--堆与栈
  * @version 0.1
  * @date 2022-07-14
  * 

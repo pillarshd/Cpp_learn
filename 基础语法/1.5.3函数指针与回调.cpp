@@ -1,7 +1,7 @@
 /**
  * @file 函数指针与回调.cpp
  * @author pillar (pillar.shi@foxmail.com)
- * @brief 5.3: 函数指针-->回调
+ * @brief 1.5.3: 函数指针-->回调
  * @version 0.1
  * @date 2022-07-16
  * 
