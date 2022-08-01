@@ -1,6 +1,6 @@
 /*****************************************************************************
  * @file 编译_打印_字符串.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.1: 编译 打印 字符串
  * @version 0.1
  * @date 2022-07-05

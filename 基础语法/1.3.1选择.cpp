@@ -1,6 +1,6 @@
 /**
  * @file 选择.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.3.1: 选择语句
  * @version 0.1
  * @date 2022-07-09

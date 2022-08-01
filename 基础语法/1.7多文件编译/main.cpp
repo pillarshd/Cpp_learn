@@ -1,6 +1,6 @@
 /*****************************************************************************
  * @file main.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.7: 多文件编译方法
  * @version 0.1
  * @date 2022-07-21

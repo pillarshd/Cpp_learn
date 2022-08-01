@@ -1,6 +1,6 @@
 /*****************************************************************************
  * @file String简介.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.6.3: string(是一个类) 
  * @version 0.1
  * @date 2022-07-20

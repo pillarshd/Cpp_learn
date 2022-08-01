@@ -1,6 +1,6 @@
 /**
  * @file 函数创建.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.4.1: 函数创建、声明、调用
  * @version 0.1
  * @date 2022-07-12

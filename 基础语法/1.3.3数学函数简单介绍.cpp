@@ -1,6 +1,6 @@
 /**
  * @file 数学函数简单介绍.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.3.3: 几个数学函数的介绍
  * @version 0.1
  * @date 2022-07-10

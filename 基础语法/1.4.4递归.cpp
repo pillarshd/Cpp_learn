@@ -1,6 +1,6 @@
 /**
  * @file 递归.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.4.4: 递归--阶乘
  * @version 0.1
  * @date 2022-07-13

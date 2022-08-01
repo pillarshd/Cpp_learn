@@ -1,6 +1,6 @@
 /**
  * @file 指针_引用_const.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.5.2: 指针、引用和count
  * @version 0.1
  * @date 2022-07-16

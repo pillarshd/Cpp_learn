@@ -1,6 +1,6 @@
 /*****************************************************************************
  * @file add.h
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 7: 多文件编译的add.h
  * @version 0.1
  * @date 2022-07-21

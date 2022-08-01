@@ -1,6 +1,6 @@
 /*****************************************************************************
  * @file cString简介.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.6.2: cString几个函数简介
  * @version 0.1
  * @date 2022-07-20

@@ -1,6 +1,6 @@
 /**
  * @file 指针_堆与栈.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.5.1: 指针创建--堆与栈
  * @version 0.1
  * @date 2022-07-14

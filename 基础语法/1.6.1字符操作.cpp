@@ -1,6 +1,6 @@
 /**
  * @file 字符操作.cpp
- * @author pillar (pillar.shi@foxmail.com)
+ * @author pillar (pillar.shi3@gmail.com)
  * @brief 1.6.1: 字符的操作
  * @version 0.1
  * @date 2022-07-19
